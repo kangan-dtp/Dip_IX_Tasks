@@ -7,10 +7,10 @@
 ![My Binder example](mybinder.jpg)
 
 5. A re-usble link to the Jupyter notebook can be found at:
-[Reusable Link](link.jpg)
+![Reusable Link](link.jpg)
 
 6. To save your work you'll need to download the Jupyter file
-[Download](download.jpg)
+![Download](download.jpg)
 
 7. To resume working on the file you'll need to upload the file and reload the window
-[Upload](upload.jpg)
+![Upload](upload.jpg)
